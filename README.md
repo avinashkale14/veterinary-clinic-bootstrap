@@ -7,8 +7,6 @@ This project was developed as a classroom practice project to learn Bootstrap gr
 
 ## 📷 Project Preview
 
-## 📷 Project Preview
-
 ![Project Preview](images/preview.png)
 
 ---
