@@ -7,7 +7,7 @@ This project was developed as a classroom practice project to learn Bootstrap gr
 
 ## 📷 Project Preview
 
-(imagess/preview.png)
+(images/preview.png)
 
 ---
 
@@ -58,5 +58,3 @@ This project was created to practice:
 
 Avinash Kale  
 Computer Science Student
-
----
