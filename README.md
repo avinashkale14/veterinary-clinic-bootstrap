@@ -7,7 +7,7 @@ This project was developed as a classroom practice project to learn Bootstrap gr
 
 ## 🚀 Live Demo
 
-🔗 https://veterinary-clinic-ak.vercel.app
+🔗 https://veterinary-clinic-ak.vercel.app/
 
 ---
 
