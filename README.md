@@ -3,6 +3,12 @@
 A responsive veterinary clinic website built using HTML, CSS, and Bootstrap 5.  
 This project was developed as a classroom practice project to learn Bootstrap grid system, components, and responsive design.
 
+------
+
+## 🚀 Live Demo
+
+🔗 https://veterinary-clinic-ak.vercel.app
+
 ---
 
 ## 📷 Project Preview
